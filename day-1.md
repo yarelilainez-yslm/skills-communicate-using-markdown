@@ -1,6 +1,6 @@
 # Daily Learning
 ## Morning Planning
-
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
 ## Review
 
 - Item 1
@@ -35,4 +35,9 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 ```
 
 
-![Mona the Octocat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vI9j9EtZRX4eewh8qupFvke1FLalUynGytqq93R6aDm7iv1zxg6Pq8o&s=10)
+![Mona the Octocat](https://lamenteesmaravillosa.com/wp-content/uploads/2021/08/husky-1024x683.jpg?auto=format%2Ccompress&quality=75&width=3840&height=2160&fit=cover&gravity=center&sharp=true&progressive=true)
+
+<img alt="Mona the Octocat" src="https://cdn.pixabay.com/photo/2022/09/13/13/47/animal-7451969_640.jpg"
+width="200" align="right">
+
+<img alt="Cloudy morning" src="https://www.tiendanimal.es/articulos/wp-content/uploads/2021/05/tutucan-animales-bonitos.jpg" width="100" align="right">
