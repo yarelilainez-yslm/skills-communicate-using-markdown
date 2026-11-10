@@ -33,3 +33,6 @@ Convert an image or video from dark mode to light mode using [ffmpeg](https://ww
 ```bash
 ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
 ```
+
+
+![Mona the Octocat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vI9j9EtZRX4eewh8qupFvke1FLalUynGytqq93R6aDm7iv1zxg6Pq8o&s=10)
